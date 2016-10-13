@@ -1,0 +1,2 @@
+1p-16G-testn.outv:ssd  #0 elem #0   Number of cleans:	11346
+1p-testn.outv:ssd  #0 elem #0   Number of cleans:	39838

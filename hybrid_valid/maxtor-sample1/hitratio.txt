@@ -1,0 +1,2 @@
+1p-16G-testn.outv: LRU hit ratio = 0.574698
+1p-testn.outv: LRU hit ratio = 0.445009

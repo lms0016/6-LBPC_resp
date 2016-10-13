@@ -1,0 +1,2 @@
+1p-16G-testn.outv: LRU Destage Count = 0
+1p-testn.outv: LRU Destage Count = 12800

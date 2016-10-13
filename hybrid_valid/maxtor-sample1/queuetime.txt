@@ -1,0 +1,15 @@
+1p-16G-test7.outv: FCL Foreground: Queue time average: 	294.192480
+1p-16G-testn.outv: FCL Foreground: Queue time average: 	730.404225
+1p-test7.outv: FCL Foreground: Queue time average: 	314.070840
+1p-testn.outv: FCL Foreground: Queue time average: 	969.978391
+fox-1part-t1test01-opt-16G-IO1-a05.outv: FCL Foreground: Queue time average: 	6.057890
+fox-1part-t1test01-opt-4G-IO1-a05.outv: FCL Foreground: Queue time average: 	39.354183
+fox-1part-t1test05-opt-16G-IO1-a05-1.outv: FCL Foreground: Queue time average: 	338437.202786
+fox-1part-t1test05-opt-4G-IO1-a05-1.outv: FCL Foreground: Queue time average: 	1774376.467819
+fox-1part-t1test06-opt-16G-IO1-a05.outv: FCL Foreground: Queue time average: 	1655.027715
+fox-1part-t1test06-opt-4G-IO1-a05.outv: FCL Foreground: Queue time average: 	4147.318751
+fox-1part-t1test09-opt-16G-IO1-a05.outv: FCL Foreground: Queue time average: 	0.000000
+fox-1part-t1test09-opt-4G-IO1-a05.outv: FCL Foreground: Queue time average: 	0.000000
+fox-1part-t1test11-opt-16G-IO1-a05.outv: FCL Foreground: Queue time average: 	0.000000
+fox-1part-t1test13-opt-16G-IO1-a05.outv: FCL Foreground: Queue time average: 	773.108361
+fox-1part-t1test13-opt-4G-IO1-a05.outv: FCL Foreground: Queue time average: 	1885.001541

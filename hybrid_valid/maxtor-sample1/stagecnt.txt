@@ -1,0 +1,2 @@
+1p-16G-testn.outv: LRU Stage Count = 972832
+1p-testn.outv: LRU Stage Count = 1275105
